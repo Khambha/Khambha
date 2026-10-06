@@ -142,7 +142,36 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 <!-- Auto-updated by .github/workflows/music.yml. Do not edit between the markers. -->
 <!--MUSIC:START-->
-*Top tracks and recently played will appear here after the first workflow run.*
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🔥 Top tracks (last month)
+
+| # | Track | Artist | Plays |
+|:-:|:--|:--|:-:|
+| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 5 |
+| 2 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
+| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 2 |
+| 4 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 2 |
+| 5 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 2 |
+
+</td>
+<td valign="top" width="50%">
+
+#### 🕒 Recently played
+
+| | Track | Artist |
+|:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f61aa66a569231c8145fbb5bd3d39dfb.jpg" width="40" height="40"/> | [Diamond Mind (with Nipsey Hussle & Ty Dolla $ign)](https://www.last.fm/music/Dr.+Dre/_/Diamond+Mind+(with+Nipsey+Hussle+&+Ty+Dolla+$ign)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/64e130539e18e3a22c27da0188437e9d.jpg" width="40" height="40"/> | [Fallin Up (with Thurz & Cocoa Sarai)](https://www.last.fm/music/Dr.+Dre/_/Fallin+Up+(with+Thurz+&+Cocoa+Sarai)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/3f0ab3570d0dd82893114370f8587fbd.png" width="40" height="40"/> | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre |
+
+</td>
+</tr>
+</table>
 <!--MUSIC:END-->
 
 ---
