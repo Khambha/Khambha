@@ -94,7 +94,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
       <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <br/><br/>
-      <a href="https://github.com/Khambha/F1-Winner-Prediction"><b>📂 Source Code</b></a>
+      <a href="https://github.com/Khambha/F1-Winner-Predictor"><b>📂 Source Code</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 AI Orchestra</h3>
@@ -108,7 +108,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/Khambha/AI-Orchestra"><b>📂 Source Code</b></a>
+      <a href="https://github.com/Khambha/AI-Orchestra""><b>📂 Source Code</b></a>
     </td>
   </tr>
 </table>
@@ -118,8 +118,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 ## 💼 Experience
 
 | Role | Where | When | Highlights |
-|------|-------|------|------------|
-| **Data Science Intern** | Luminar Technolab, Kochi | 11/2025 – 06/2026 | Built ML/DL models for predictive analytics and computer vision; developed preprocessing, feature engineering and optimisation pipelines; created AI assistants and workflow automation using Generative AI and Agentic AI frameworks |
+|------|-------|------|------------| |
 | **Research & Project Intern** | Bhabha Atomic Research Centre, Visakhapatnam | 06/2023 – 07/2023 | Optimised a deterministic model for **10x faster** defect identification in nuclear fission vs brute force; built a Python visualisation script that cut analysis time by **40%** |
 
 ---
@@ -127,7 +126,6 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 ## 🎓 Education & Certifications
 
 - 🎓 **B.Tech, Computer Science** — Andhra University College of Engineering (2021 – 2024), CGPA **8.42 / 10**
-- 🏅 Microsoft Certified: **Azure AI Fundamentals**
 - 🏅 **NACC** certification in Data Science, ML and Deep Learning
 - 🏅 **NPTEL** certification in Ethical Hacking for Engineers
 
@@ -137,8 +135,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 <div align="center">
 
-<a href="https://www.last.fm/user/YOUR_LASTFM_USERNAME"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm"/></a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+<a href="https://www.last.fm/user/khambha18"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm"/></a>
+<a href="https://open.spotify.com/user/31secbitu7fiydutrpy7hmoqyt3a?si=4058e69da4c44af2"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 
 </div>
 
