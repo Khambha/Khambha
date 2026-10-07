@@ -150,9 +150,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 6 |
-| 2 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 4 |
-| 3 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 4 |
+| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 7 |
+| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 5 |
+| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 4 |
 | 4 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
 | 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 3 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
+| 🎵 | [Maanthrikam (From "Bethlehem Kudumba Unit")](https://www.last.fm/music/Vishnu+Vijay/_/Maanthrikam+(From+%22Bethlehem+Kudumba+Unit%22)) | Vishnu Vijay |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/44256a0e77e7c3022be226b69d1f3c2e.jpg" width="40" height="40"/> | [Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!) | XXXTENTACION |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f8c66d99057707f1a5622c9ec3aaa840.jpg" width="40" height="40"/> | [golden hour](https://www.last.fm/music/JVKE/_/golden+hour) | JVKE |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/be2aca67c96a044ec6e2726d7de50d94.jpg" width="40" height="40"/> | [Say So](https://www.last.fm/music/Doja+Cat/_/Say+So) | Doja Cat |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d56dc3794dfe83224f8257a27c6864ac.jpg" width="40" height="40"/> | [Feel It Still](https://www.last.fm/music/Portugal.+The+Man/_/Feel+It+Still) | Portugal. The Man |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2d1b29a328af0c4e7b4ef69b071186e9.png" width="40" height="40"/> | [From The Start - Funk Slowed](https://www.last.fm/music/-Prey/_/From+The+Start+-+Funk+Slowed) | -Prey |
 
 </td>
 </tr>
