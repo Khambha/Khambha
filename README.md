@@ -150,11 +150,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 5 |
-| 2 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
-| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 2 |
-| 4 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 2 |
-| 5 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 2 |
+| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 6 |
+| 2 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 4 |
+| 3 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 4 |
+| 4 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
+| 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f61aa66a569231c8145fbb5bd3d39dfb.jpg" width="40" height="40"/> | [Diamond Mind (with Nipsey Hussle & Ty Dolla $ign)](https://www.last.fm/music/Dr.+Dre/_/Diamond+Mind+(with+Nipsey+Hussle+&+Ty+Dolla+$ign)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/64e130539e18e3a22c27da0188437e9d.jpg" width="40" height="40"/> | [Fallin Up (with Thurz & Cocoa Sarai)](https://www.last.fm/music/Dr.+Dre/_/Fallin+Up+(with+Thurz+&+Cocoa+Sarai)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/3f0ab3570d0dd82893114370f8587fbd.png" width="40" height="40"/> | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/44256a0e77e7c3022be226b69d1f3c2e.jpg" width="40" height="40"/> | [Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!) | XXXTENTACION |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f8c66d99057707f1a5622c9ec3aaa840.jpg" width="40" height="40"/> | [golden hour](https://www.last.fm/music/JVKE/_/golden+hour) | JVKE |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/be2aca67c96a044ec6e2726d7de50d94.jpg" width="40" height="40"/> | [Say So](https://www.last.fm/music/Doja+Cat/_/Say+So) | Doja Cat |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d56dc3794dfe83224f8257a27c6864ac.jpg" width="40" height="40"/> | [Feel It Still](https://www.last.fm/music/Portugal.+The+Man/_/Feel+It+Still) | Portugal. The Man |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2d1b29a328af0c4e7b4ef69b071186e9.png" width="40" height="40"/> | [From The Start - Funk Slowed](https://www.last.fm/music/-Prey/_/From+The+Start+-+Funk+Slowed) | -Prey |
 
 </td>
 </tr>
