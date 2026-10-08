@@ -150,9 +150,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 7 |
-| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 6 |
-| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 5 |
+| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 9 |
+| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 7 |
+| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 6 |
 | 4 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
 | 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 3 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/832ade6a35ec2a224ea9a5be326b5de4.jpg" width="40" height="40"/> | [Borderline](https://www.last.fm/music/Tame+Impala/_/Borderline) | Tame Impala |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/eceff07cf5fdec78aea91d9b02d0971c.jpg" width="40" height="40"/> | [Roses - Imanbek Remix](https://www.last.fm/music/SAINt+JHN/_/Roses+-+Imanbek+Remix) | SAINt JHN |
-| 🎵 | [Kannodu - Live](https://www.last.fm/music/Job+Kurian/_/Kannodu+-+Live) | Job Kurian |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70bd191cd3cb4d9d80bdd4ed0850b0a9.jpg" width="40" height="40"/> | [Chemical](https://www.last.fm/music/Post+Malone/_/Chemical) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5b78f4443e260b9fb58059528004e906.jpg" width="40" height="40"/> | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.jpg" width="40" height="40"/> | [Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007](https://www.last.fm/music/John+Mayer/_/Free+Fallin%27+-+Live+at+the+Nokia+Theatre,+Los+Angeles,+CA+-+December+2007) | John Mayer |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/899cae0f9d6315cc28c848f70d20ee7f.jpg" width="40" height="40"/> | [Fuego](https://www.last.fm/music/Dimitri+Vegas+&+Like+Mike/_/Fuego) | Dimitri Vegas & Like Mike |
 
 </td>
 </tr>
