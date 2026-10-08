@@ -151,8 +151,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
 | 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 7 |
-| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 5 |
-| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 4 |
+| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 6 |
+| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 5 |
 | 4 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
 | 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 3 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/832ade6a35ec2a224ea9a5be326b5de4.jpg" width="40" height="40"/> | [Borderline](https://www.last.fm/music/Tame+Impala/_/Borderline) | Tame Impala |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/eceff07cf5fdec78aea91d9b02d0971c.jpg" width="40" height="40"/> | [Roses - Imanbek Remix](https://www.last.fm/music/SAINt+JHN/_/Roses+-+Imanbek+Remix) | SAINt JHN |
+| 🎵 | [Kannodu - Live](https://www.last.fm/music/Job+Kurian/_/Kannodu+-+Live) | Job Kurian |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70bd191cd3cb4d9d80bdd4ed0850b0a9.jpg" width="40" height="40"/> | [Chemical](https://www.last.fm/music/Post+Malone/_/Chemical) | Post Malone |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
-| 🎵 | [Maanthrikam (From "Bethlehem Kudumba Unit")](https://www.last.fm/music/Vishnu+Vijay/_/Maanthrikam+(From+%22Bethlehem+Kudumba+Unit%22)) | Vishnu Vijay |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/44256a0e77e7c3022be226b69d1f3c2e.jpg" width="40" height="40"/> | [Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!) | XXXTENTACION |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f8c66d99057707f1a5622c9ec3aaa840.jpg" width="40" height="40"/> | [golden hour](https://www.last.fm/music/JVKE/_/golden+hour) | JVKE |
 
 </td>
 </tr>
