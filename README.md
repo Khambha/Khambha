@@ -150,11 +150,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 9 |
-| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 7 |
-| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 6 |
-| 4 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 4 |
-| 5 | [Mukti](https://www.last.fm/music/Ritviz/_/Mukti) | Ritviz | 4 |
+| 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
+| 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 10 |
+| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
+| 4 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
+| 5 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a6db79e1b3744e1a8e871cb913554258.png" width="40" height="40"/> | [Counting Stars](https://www.last.fm/music/OneRepublic/_/Counting+Stars) | OneRepublic |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/be2aca67c96a044ec6e2726d7de50d94.jpg" width="40" height="40"/> | [Say So](https://www.last.fm/music/Doja+Cat/_/Say+So) | Doja Cat |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0c29e0f1791b94bc532aa12cd634308e.jpg" width="40" height="40"/> | [Vossi Bop](https://www.last.fm/music/Stormzy/_/Vossi+Bop) | Stormzy |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/84d932c0e7ea1e64fec52ae5ea25e2ec.png" width="40" height="40"/> | [Loser](https://www.last.fm/music/Tame+Impala/_/Loser) | Tame Impala |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f8c66d99057707f1a5622c9ec3aaa840.jpg" width="40" height="40"/> | [golden hour](https://www.last.fm/music/JVKE/_/golden+hour) | JVKE |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fc434646d7a42cf2a1f385d29e52392b.png" width="40" height="40"/> | [Farebi](https://www.last.fm/music/Chaar+Diwaari/_/Farebi) | Chaar Diwaari |
+| 🎵 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/3f0ab3570d0dd82893114370f8587fbd.png" width="40" height="40"/> | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5b78f4443e260b9fb58059528004e906.jpg" width="40" height="40"/> | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre |
 
 </td>
 </tr>
