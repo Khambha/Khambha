@@ -152,9 +152,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 |:-:|:--|:--|:-:|
 | 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
 | 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 10 |
-| 3 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
-| 4 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
-| 5 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
+| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 7 |
+| 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
+| 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fc434646d7a42cf2a1f385d29e52392b.png" width="40" height="40"/> | [Farebi](https://www.last.fm/music/Chaar+Diwaari/_/Farebi) | Chaar Diwaari |
-| 🎵 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/3f0ab3570d0dd82893114370f8587fbd.png" width="40" height="40"/> | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5b78f4443e260b9fb58059528004e906.jpg" width="40" height="40"/> | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" width="40" height="40"/> | [peekaboo (feat. AzChike)](https://www.last.fm/music/Kendrick+Lamar/_/peekaboo+(feat.+AzChike)) | Kendrick Lamar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d352af286399dd1eb9597ed98cfa237.jpg" width="40" height="40"/> | [Hawking's Waltz](https://www.last.fm/music/John+D.+Boswell/_/Hawking%27s+Waltz) | John D. Boswell |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b5198bf6fa451f409d91e2cc6b5ee3a7.png" width="40" height="40"/> | [Trouble](https://www.last.fm/music/The+Chosen/_/Trouble) | The Chosen |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.jpg" width="40" height="40"/> | [Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007](https://www.last.fm/music/John+Mayer/_/Free+Fallin%27+-+Live+at+the+Nokia+Theatre,+Los+Angeles,+CA+-+December+2007) | John Mayer |
 
 </td>
 </tr>
