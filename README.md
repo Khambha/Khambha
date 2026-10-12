@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" width="40" height="40"/> | [peekaboo (feat. AzChike)](https://www.last.fm/music/Kendrick+Lamar/_/peekaboo+(feat.+AzChike)) | Kendrick Lamar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d352af286399dd1eb9597ed98cfa237.jpg" width="40" height="40"/> | [Hawking's Waltz](https://www.last.fm/music/John+D.+Boswell/_/Hawking%27s+Waltz) | John D. Boswell |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b5198bf6fa451f409d91e2cc6b5ee3a7.png" width="40" height="40"/> | [Trouble](https://www.last.fm/music/The+Chosen/_/Trouble) | The Chosen |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.jpg" width="40" height="40"/> | [Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007](https://www.last.fm/music/John+Mayer/_/Free+Fallin%27+-+Live+at+the+Nokia+Theatre,+Los+Angeles,+CA+-+December+2007) | John Mayer |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5ef9881d172db5e235ecefa710d382e3.jpg" width="40" height="40"/> | [Locked Away (feat. Adam Levine)](https://www.last.fm/music/+noredirect/R.+City/_/Locked+Away+(feat.+Adam+Levine)) | R. City |
+| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1f3ce488c4a71d1ea54d552adcb1170b.png" width="40" height="40"/> | [Puttu paattu](https://www.last.fm/music/Thakara/_/Puttu+paattu) | Thakara |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ae41e79757ec3c1997ce4c93996d6423.jpg" width="40" height="40"/> | [Parudeesa - From "Bheeshma Parvam"](https://www.last.fm/music/Sushin+Shyam/_/Parudeesa+-+From+%22Bheeshma+Parvam%22) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b16635dc1025cace72b980a9ba0ebabd.jpg" width="40" height="40"/> | [Yeh Vaada Raha - Tu Tu Hai Wahi / From “Yeh Vaada Raha”](https://www.last.fm/music/Kishore+Kumar/_/Yeh+Vaada+Raha+-+Tu+Tu+Hai+Wahi+%2F+From+%E2%80%9CYeh+Vaada+Raha%E2%80%9D) | Kishore Kumar |
 
 </td>
 </tr>
