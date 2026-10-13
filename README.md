@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/209efb267225b3b4efcf802798e724b0.jpg" width="40" height="40"/> | [Life Is a Highway](https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway) | Rascal Flatts |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5ef9881d172db5e235ecefa710d382e3.jpg" width="40" height="40"/> | [Locked Away (feat. Adam Levine)](https://www.last.fm/music/+noredirect/R.+City/_/Locked+Away+(feat.+Adam+Levine)) | R. City |
 | 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1f3ce488c4a71d1ea54d552adcb1170b.png" width="40" height="40"/> | [Puttu paattu](https://www.last.fm/music/Thakara/_/Puttu+paattu) | Thakara |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ae41e79757ec3c1997ce4c93996d6423.jpg" width="40" height="40"/> | [Parudeesa - From "Bheeshma Parvam"](https://www.last.fm/music/Sushin+Shyam/_/Parudeesa+-+From+%22Bheeshma+Parvam%22) | Sushin Shyam |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b16635dc1025cace72b980a9ba0ebabd.jpg" width="40" height="40"/> | [Yeh Vaada Raha - Tu Tu Hai Wahi / From “Yeh Vaada Raha”](https://www.last.fm/music/Kishore+Kumar/_/Yeh+Vaada+Raha+-+Tu+Tu+Hai+Wahi+%2F+From+%E2%80%9CYeh+Vaada+Raha%E2%80%9D) | Kishore Kumar |
 
 </td>
 </tr>
