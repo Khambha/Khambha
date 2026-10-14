@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/98050f67524ffee7af6edd314b767ac4.png" width="40" height="40"/> | [Count Me Out](https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out) | Kendrick Lamar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Thandi Hawa](https://www.last.fm/music/Ritviz/_/Thandi+Hawa) | Ritviz |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f01bb888c89c38d0d30e0dcf9bd8e3c7.jpg" width="40" height="40"/> | [Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster) | The Notorious B.I.G. |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Bad](https://www.last.fm/music/Michael+Jackson/_/Bad) | Michael Jackson |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.jpg" width="40" height="40"/> | [Hasta el Amanecer](https://www.last.fm/music/Nicky+Jam/_/Hasta+el+Amanecer) | Nicky Jam |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/43b3e19f9aeb8df5a500b2c8f35efdb5.jpg" width="40" height="40"/> | [Con Calma](https://www.last.fm/music/Daddy+Yankee/_/Con+Calma) | Daddy Yankee |
 
 </td>
 </tr>
