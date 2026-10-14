@@ -150,8 +150,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
-| 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 10 |
+| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
+| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
 | 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 7 |
 | 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 | 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/209efb267225b3b4efcf802798e724b0.jpg" width="40" height="40"/> | [Life Is a Highway](https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway) | Rascal Flatts |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5ef9881d172db5e235ecefa710d382e3.jpg" width="40" height="40"/> | [Locked Away (feat. Adam Levine)](https://www.last.fm/music/+noredirect/R.+City/_/Locked+Away+(feat.+Adam+Levine)) | R. City |
-| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1f3ce488c4a71d1ea54d552adcb1170b.png" width="40" height="40"/> | [Puttu paattu](https://www.last.fm/music/Thakara/_/Puttu+paattu) | Thakara |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ae41e79757ec3c1997ce4c93996d6423.jpg" width="40" height="40"/> | [Parudeesa - From "Bheeshma Parvam"](https://www.last.fm/music/Sushin+Shyam/_/Parudeesa+-+From+%22Bheeshma+Parvam%22) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f01bb888c89c38d0d30e0dcf9bd8e3c7.jpg" width="40" height="40"/> | [Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster) | The Notorious B.I.G. |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Bad](https://www.last.fm/music/Michael+Jackson/_/Bad) | Michael Jackson |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.jpg" width="40" height="40"/> | [Hasta el Amanecer](https://www.last.fm/music/Nicky+Jam/_/Hasta+el+Amanecer) | Nicky Jam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6d1289cf8d13b137ae870b2833a32be9.jpg" width="40" height="40"/> | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/43b3e19f9aeb8df5a500b2c8f35efdb5.jpg" width="40" height="40"/> | [Con Calma](https://www.last.fm/music/Daddy+Yankee/_/Con+Calma) | Daddy Yankee |
 
 </td>
 </tr>
