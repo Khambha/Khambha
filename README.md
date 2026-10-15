@@ -154,7 +154,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
 | 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 7 |
 | 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
-| 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
+| 5 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/511b7dfd5ab2201384104950cbca6905.jpg" width="40" height="40"/> | [Supercalifragilisticexpialidocious - From "Mary Poppins" Soundtrack](https://www.last.fm/music/Julie+Andrews/_/Supercalifragilisticexpialidocious+-+From+%22Mary+Poppins%22+Soundtrack) | Julie Andrews |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/94daff64c30372757896f93986aa6924.jpg" width="40" height="40"/> | [Do-Re-Mi](https://www.last.fm/music/Julie+Andrews/_/Do-Re-Mi) | Julie Andrews |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/60defceccd37c861431b357457d04ad0.png" width="40" height="40"/> | [Merry Christmas, Please Don't Call](https://www.last.fm/music/Bleachers/_/Merry+Christmas,+Please+Don%27t+Call) | Bleachers |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2248e72411992639ffa8ab94ba97a631.jpg" width="40" height="40"/> | [Welcome to Paradise](https://www.last.fm/music/Green+Day/_/Welcome+to+Paradise) | Green Day |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg" width="40" height="40"/> | [21 Guns](https://www.last.fm/music/Green+Day/_/21+Guns) | Green Day |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5ed9c54da83d08ba164cc5c88b08ec36.png" width="40" height="40"/> | [Parayathe Vannen - From "Bro Daddy"](https://www.last.fm/music/Deepak+Dev/_/Parayathe+Vannen+-+From+%22Bro+Daddy%22) | Deepak Dev |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg" width="40" height="40"/> | [Bleed It Out](https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out) | Linkin Park |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6a463a43645f5f63d83b62813ec42e7d.jpg" width="40" height="40"/> | [LA CANCIÓN](https://www.last.fm/music/J+Balvin/_/LA+CANCI%C3%93N) | J Balvin |
+| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/18bc0936ef15919ab9eceeadba9d21d4.jpg" width="40" height="40"/> | [Veruca Salt](https://www.last.fm/music/Danny+Elfman/_/Veruca+Salt) | Danny Elfman |
 
 </td>
 </tr>
