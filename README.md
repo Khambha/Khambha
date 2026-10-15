@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/98050f67524ffee7af6edd314b767ac4.png" width="40" height="40"/> | [Count Me Out](https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out) | Kendrick Lamar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Thandi Hawa](https://www.last.fm/music/Ritviz/_/Thandi+Hawa) | Ritviz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f01bb888c89c38d0d30e0dcf9bd8e3c7.jpg" width="40" height="40"/> | [Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster) | The Notorious B.I.G. |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Bad](https://www.last.fm/music/Michael+Jackson/_/Bad) | Michael Jackson |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.jpg" width="40" height="40"/> | [Hasta el Amanecer](https://www.last.fm/music/Nicky+Jam/_/Hasta+el+Amanecer) | Nicky Jam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/511b7dfd5ab2201384104950cbca6905.jpg" width="40" height="40"/> | [Supercalifragilisticexpialidocious - From "Mary Poppins" Soundtrack](https://www.last.fm/music/Julie+Andrews/_/Supercalifragilisticexpialidocious+-+From+%22Mary+Poppins%22+Soundtrack) | Julie Andrews |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/94daff64c30372757896f93986aa6924.jpg" width="40" height="40"/> | [Do-Re-Mi](https://www.last.fm/music/Julie+Andrews/_/Do-Re-Mi) | Julie Andrews |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/60defceccd37c861431b357457d04ad0.png" width="40" height="40"/> | [Merry Christmas, Please Don't Call](https://www.last.fm/music/Bleachers/_/Merry+Christmas,+Please+Don%27t+Call) | Bleachers |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2248e72411992639ffa8ab94ba97a631.jpg" width="40" height="40"/> | [Welcome to Paradise](https://www.last.fm/music/Green+Day/_/Welcome+to+Paradise) | Green Day |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg" width="40" height="40"/> | [21 Guns](https://www.last.fm/music/Green+Day/_/21+Guns) | Green Day |
 
 </td>
 </tr>
