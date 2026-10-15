@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5ed9c54da83d08ba164cc5c88b08ec36.png" width="40" height="40"/> | [Parayathe Vannen - From "Bro Daddy"](https://www.last.fm/music/Deepak+Dev/_/Parayathe+Vannen+-+From+%22Bro+Daddy%22) | Deepak Dev |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg" width="40" height="40"/> | [Bleed It Out](https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out) | Linkin Park |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6a463a43645f5f63d83b62813ec42e7d.jpg" width="40" height="40"/> | [LA CANCIÓN](https://www.last.fm/music/J+Balvin/_/LA+CANCI%C3%93N) | J Balvin |
-| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/18bc0936ef15919ab9eceeadba9d21d4.jpg" width="40" height="40"/> | [Veruca Salt](https://www.last.fm/music/Danny+Elfman/_/Veruca+Salt) | Danny Elfman |
+| 🎵 | [Enni Enni Sthuthikkuvan](https://www.last.fm/music/M4manna/_/Enni+Enni+Sthuthikkuvan) | M4manna |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fd95bc0e534a5ab8c54c97791864f2d7.jpg" width="40" height="40"/> | [Efecto](https://www.last.fm/music/Bad+Bunny/_/Efecto) | Bad Bunny |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9bb87398d9cee9a552bfa38f7f3de325.jpg" width="40" height="40"/> | [Tu Jaane Na](https://www.last.fm/music/Pritam/_/Tu+Jaane+Na) | Pritam |
+| 🎵 | [Ee Paradevanaho](https://www.last.fm/music/KAANTHA/_/Ee+Paradevanaho) | KAANTHA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ae3d17bed3ee7ca73bc34e8a4dd0dfe9.jpg" width="40" height="40"/> | [Chaar Kadam](https://www.last.fm/music/Shaan/_/Chaar+Kadam) | Shaan |
 
 </td>
 </tr>
