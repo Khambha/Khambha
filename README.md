@@ -152,7 +152,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 |:-:|:--|:--|:-:|
 | 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
 | 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
-| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 7 |
+| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 8 |
 | 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 | 5 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0c29e0f1791b94bc532aa12cd634308e.jpg" width="40" height="40"/> | [Own It (feat. Ed Sheeran & Burna Boy)](https://www.last.fm/music/Stormzy/_/Own+It+(feat.+Ed+Sheeran+&+Burna+Boy)) | Stormzy |
-| 🎵 | [Enni Enni Sthuthikkuvan](https://www.last.fm/music/M4manna/_/Enni+Enni+Sthuthikkuvan) | M4manna |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fd95bc0e534a5ab8c54c97791864f2d7.jpg" width="40" height="40"/> | [Efecto](https://www.last.fm/music/Bad+Bunny/_/Efecto) | Bad Bunny |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9bb87398d9cee9a552bfa38f7f3de325.jpg" width="40" height="40"/> | [Tu Jaane Na](https://www.last.fm/music/Pritam/_/Tu+Jaane+Na) | Pritam |
-| 🎵 | [Ee Paradevanaho](https://www.last.fm/music/KAANTHA/_/Ee+Paradevanaho) | KAANTHA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/504aa9232db5fdb7bf1c405b822fad74.png" width="40" height="40"/> | [Aayiram Aura](https://www.last.fm/music/fejo/_/Aayiram+Aura) | fejo |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/79d65516f3773ae3907b628f9e67d03a.jpg" width="40" height="40"/> | [Toxic](https://www.last.fm/music/BoyWithUke/_/Toxic) | BoyWithUke |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2e5ff084cf4ed1b6afbfd6afec1315d7.jpg" width="40" height="40"/> | [Ballin](https://www.last.fm/music/Logic/_/Ballin) | Logic |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg" width="40" height="40"/> | [Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen) | Tame Impala |
 
 </td>
 </tr>
