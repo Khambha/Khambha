@@ -151,8 +151,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
 | 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
-| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
-| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 8 |
+| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 10 |
+| 3 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
 | 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 | 5 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/85e5e76c89b34d3596ed8f5adde2907c.jpg" width="40" height="40"/> | [Here Comes the Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+the+Sun+-+Remastered+2009) | The Beatles |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2e7e83f351078eb05e57078bd5250782.jpg" width="40" height="40"/> | [Ransom](https://www.last.fm/music/Lil+Tecca/_/Ransom) | Lil Tecca |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6278a10ea8e04889c81cd103e9378329.png" width="40" height="40"/> | [Ainsi bas la vida](https://www.last.fm/music/Indila/_/Ainsi+bas+la+vida) | Indila |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8c77e9f509c4dd3bca8d3ac6b5344ce5.png" width="40" height="40"/> | [Thunder](https://www.last.fm/music/Imagine+Dragons/_/Thunder) | Imagine Dragons |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/e5024750356c4513843adbc546f77b25.jpg" width="40" height="40"/> | [Aadat](https://www.last.fm/music/Jal/_/Aadat) | Jal |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a4fb7ae20dbc02125ad899e332bf21b2.jpg" width="40" height="40"/> | [Hej Monika - Remix](https://www.last.fm/music/PewDiePie/_/Hej+Monika+-+Remix) | PewDiePie |
+| 🎵 | [Aigiri Nandini](https://www.last.fm/music/Brodha+V/_/Aigiri+Nandini) | Brodha V |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/82415ba5424ed36346b7d53dce6ed312.jpg" width="40" height="40"/> | [Kabhi Kabhi Aditi](https://www.last.fm/music/Rashid+Ali/_/Kabhi+Kabhi+Aditi) | Rashid Ali |
+| 🎵 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander |
 
 </td>
 </tr>
