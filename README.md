@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/504aa9232db5fdb7bf1c405b822fad74.png" width="40" height="40"/> | [Aayiram Aura](https://www.last.fm/music/fejo/_/Aayiram+Aura) | fejo |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/79d65516f3773ae3907b628f9e67d03a.jpg" width="40" height="40"/> | [Toxic](https://www.last.fm/music/BoyWithUke/_/Toxic) | BoyWithUke |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2e5ff084cf4ed1b6afbfd6afec1315d7.jpg" width="40" height="40"/> | [Ballin](https://www.last.fm/music/Logic/_/Ballin) | Logic |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/dd45b0438a315aed98b5830aa2fc43c5.jpg" width="40" height="40"/> | [Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen) | Tame Impala |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/85e5e76c89b34d3596ed8f5adde2907c.jpg" width="40" height="40"/> | [Here Comes the Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+the+Sun+-+Remastered+2009) | The Beatles |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2e7e83f351078eb05e57078bd5250782.jpg" width="40" height="40"/> | [Ransom](https://www.last.fm/music/Lil+Tecca/_/Ransom) | Lil Tecca |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6278a10ea8e04889c81cd103e9378329.png" width="40" height="40"/> | [Ainsi bas la vida](https://www.last.fm/music/Indila/_/Ainsi+bas+la+vida) | Indila |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8c77e9f509c4dd3bca8d3ac6b5344ce5.png" width="40" height="40"/> | [Thunder](https://www.last.fm/music/Imagine+Dragons/_/Thunder) | Imagine Dragons |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/e5024750356c4513843adbc546f77b25.jpg" width="40" height="40"/> | [Aadat](https://www.last.fm/music/Jal/_/Aadat) | Jal |
 
 </td>
 </tr>
