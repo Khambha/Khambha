@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/34c85f595be292770dd16d886a88b060.jpg" width="40" height="40"/> | [One Sun One Moon](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon) | Anirudh Ravichander |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a4fb7ae20dbc02125ad899e332bf21b2.jpg" width="40" height="40"/> | [Hej Monika - Remix](https://www.last.fm/music/PewDiePie/_/Hej+Monika+-+Remix) | PewDiePie |
 | 🎵 | [Aigiri Nandini](https://www.last.fm/music/Brodha+V/_/Aigiri+Nandini) | Brodha V |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/82415ba5424ed36346b7d53dce6ed312.jpg" width="40" height="40"/> | [Kabhi Kabhi Aditi](https://www.last.fm/music/Rashid+Ali/_/Kabhi+Kabhi+Aditi) | Rashid Ali |
-| 🎵 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander |
 
 </td>
 </tr>
