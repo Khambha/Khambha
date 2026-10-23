@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/34c85f595be292770dd16d886a88b060.jpg" width="40" height="40"/> | [One Sun One Moon](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon) | Anirudh Ravichander |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a4fb7ae20dbc02125ad899e332bf21b2.jpg" width="40" height="40"/> | [Hej Monika - Remix](https://www.last.fm/music/PewDiePie/_/Hej+Monika+-+Remix) | PewDiePie |
-| 🎵 | [Aigiri Nandini](https://www.last.fm/music/Brodha+V/_/Aigiri+Nandini) | Brodha V |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/82415ba5424ed36346b7d53dce6ed312.jpg" width="40" height="40"/> | [Kabhi Kabhi Aditi](https://www.last.fm/music/Rashid+Ali/_/Kabhi+Kabhi+Aditi) | Rashid Ali |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4a65210db9a445d4ba46626fd915cd16.jpg" width="40" height="40"/> | [Chekele](https://www.last.fm/music/Avial/_/Chekele) | Avial |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ee41e9b6839b0966a7c1daa7128458ac.jpg" width="40" height="40"/> | [Green Green Grass](https://www.last.fm/music/George+Ezra/_/Green+Green+Grass) | George Ezra |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4822b8c62e382da54fba5adb646ee147.jpg" width="40" height="40"/> | [Ain't No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%27t+No+Mountain+High+Enough) | Marvin Gaye |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9ea87cbc2865f38105cc1aecc49bfa82.jpg" width="40" height="40"/> | [The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills) | The Weeknd |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b5f2e1ad20adbc0504126d535093bec4.jpg" width="40" height="40"/> | [Wow](https://www.last.fm/music/Team+Salut/_/Wow) | Team Salut |
 
 </td>
 </tr>
