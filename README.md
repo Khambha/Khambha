@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| 🎵 | [Sh-Boom (Life Could Be a Dream)](https://www.last.fm/music/The+Chords/_/Sh-Boom+(Life+Could+Be+a+Dream)) | The Chords |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a3967a399e6f2b1e792e2ab22e3beb86.jpg" width="40" height="40"/> | [There's a Platypus Controlling Me](https://www.last.fm/music/Dr.+Doofenshmirtz/_/There%27s+a+Platypus+Controlling+Me) | Dr. Doofenshmirtz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/44267299a0705983ad8031e94ca82112.jpg" width="40" height="40"/> | [My Dil Goes Mmmm](https://www.last.fm/music/Vishal-Shekhar/_/My+Dil+Goes+Mmmm) | Vishal-Shekhar |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4a65210db9a445d4ba46626fd915cd16.jpg" width="40" height="40"/> | [Chekele](https://www.last.fm/music/Avial/_/Chekele) | Avial |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ee41e9b6839b0966a7c1daa7128458ac.jpg" width="40" height="40"/> | [Green Green Grass](https://www.last.fm/music/George+Ezra/_/Green+Green+Grass) | George Ezra |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4822b8c62e382da54fba5adb646ee147.jpg" width="40" height="40"/> | [Ain't No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%27t+No+Mountain+High+Enough) | Marvin Gaye |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9ea87cbc2865f38105cc1aecc49bfa82.jpg" width="40" height="40"/> | [The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills) | The Weeknd |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b5f2e1ad20adbc0504126d535093bec4.jpg" width="40" height="40"/> | [Wow](https://www.last.fm/music/Team+Salut/_/Wow) | Team Salut |
 
 </td>
 </tr>
