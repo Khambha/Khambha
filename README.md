@@ -150,9 +150,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
-| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 10 |
-| 3 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 10 |
+| 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 11 |
+| 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
+| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 10 |
 | 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 | 5 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| 🎵 | [Sh-Boom (Life Could Be a Dream)](https://www.last.fm/music/The+Chords/_/Sh-Boom+(Life+Could+Be+a+Dream)) | The Chords |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a3967a399e6f2b1e792e2ab22e3beb86.jpg" width="40" height="40"/> | [There's a Platypus Controlling Me](https://www.last.fm/music/Dr.+Doofenshmirtz/_/There%27s+a+Platypus+Controlling+Me) | Dr. Doofenshmirtz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/44267299a0705983ad8031e94ca82112.jpg" width="40" height="40"/> | [My Dil Goes Mmmm](https://www.last.fm/music/Vishal-Shekhar/_/My+Dil+Goes+Mmmm) | Vishal-Shekhar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4a65210db9a445d4ba46626fd915cd16.jpg" width="40" height="40"/> | [Chekele](https://www.last.fm/music/Avial/_/Chekele) | Avial |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ee41e9b6839b0966a7c1daa7128458ac.jpg" width="40" height="40"/> | [Green Green Grass](https://www.last.fm/music/George+Ezra/_/Green+Green+Grass) | George Ezra |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/197a43c10ecd2329f1150c4fc3031d67.jpg" width="40" height="40"/> | [TAAN](https://www.last.fm/music/Ritviz/_/TAAN) | Ritviz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Thandi Hawa](https://www.last.fm/music/Ritviz/_/Thandi+Hawa) | Ritviz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/77ed39b0a089fcbce02c500618ae60cf.jpg" width="40" height="40"/> | [Jab Se Tere Naina](https://www.last.fm/music/Monty+Sharma/_/Jab+Se+Tere+Naina) | Monty Sharma |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz |
 
 </td>
 </tr>
