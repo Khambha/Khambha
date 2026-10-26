@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/197a43c10ecd2329f1150c4fc3031d67.jpg" width="40" height="40"/> | [TAAN](https://www.last.fm/music/Ritviz/_/TAAN) | Ritviz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Thandi Hawa](https://www.last.fm/music/Ritviz/_/Thandi+Hawa) | Ritviz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/77ed39b0a089fcbce02c500618ae60cf.jpg" width="40" height="40"/> | [Jab Se Tere Naina](https://www.last.fm/music/Monty+Sharma/_/Jab+Se+Tere+Naina) | Monty Sharma |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse) | Post Malone |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9d136c2166964d1a7bc8a9a7c0f5360d.jpg" width="40" height="40"/> | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
+| 🎵 | [Better Call Saul TV Theme (From Better Call Saul") - Original Motion Picture Soundtrack](https://www.last.fm/music/Voidoid/_/Better+Call+Saul+TV+Theme+(From+Better+Call+Saul%22)+-+Original+Motion+Picture+Soundtrack) | Voidoid |
+| 🎵 | [Nerathai Neril Ketkiren](https://www.last.fm/music/M.S+Krsna/_/Nerathai+Neril+Ketkiren) | M.S Krsna |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9669591438fa40869420f91c617de999.jpg" width="40" height="40"/> | [Dancing Queen](https://www.last.fm/music/ABBA/_/Dancing+Queen) | ABBA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8507ef7119a10620e1e9700d0f8daae2.jpg" width="40" height="40"/> | [Aadharanjali](https://www.last.fm/music/Sushin+Shyam/_/Aadharanjali) | Sushin Shyam |
 
 </td>
 </tr>
