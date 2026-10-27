@@ -153,8 +153,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 11 |
 | 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
 | 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 10 |
-| 4 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
-| 5 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
+| 4 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 7 |
+| 5 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
-| 🎵 | [Better Call Saul TV Theme (From Better Call Saul") - Original Motion Picture Soundtrack](https://www.last.fm/music/Voidoid/_/Better+Call+Saul+TV+Theme+(From+Better+Call+Saul%22)+-+Original+Motion+Picture+Soundtrack) | Voidoid |
 | 🎵 | [Nerathai Neril Ketkiren](https://www.last.fm/music/M.S+Krsna/_/Nerathai+Neril+Ketkiren) | M.S Krsna |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9669591438fa40869420f91c617de999.jpg" width="40" height="40"/> | [Dancing Queen](https://www.last.fm/music/ABBA/_/Dancing+Queen) | ABBA |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8507ef7119a10620e1e9700d0f8daae2.jpg" width="40" height="40"/> | [Aadharanjali](https://www.last.fm/music/Sushin+Shyam/_/Aadharanjali) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9cb83c5e9ed88d85de5a8ed3471cf4d9.jpg" width="40" height="40"/> | [Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch) | Bella Poarch |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" width="40" height="40"/> | [squabble up](https://www.last.fm/music/Kendrick+Lamar/_/squabble+up) | Kendrick Lamar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
 
 </td>
 </tr>
