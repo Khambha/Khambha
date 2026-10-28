@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/72be72f5d593a9b02f30700fd5079005.jpg" width="40" height="40"/> | [What Makes You Beautiful](https://www.last.fm/music/One+Direction/_/What+Makes+You+Beautiful) | One Direction |
 | 🎵 | [Nerathai Neril Ketkiren](https://www.last.fm/music/M.S+Krsna/_/Nerathai+Neril+Ketkiren) | M.S Krsna |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9cb83c5e9ed88d85de5a8ed3471cf4d9.jpg" width="40" height="40"/> | [Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch) | Bella Poarch |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" width="40" height="40"/> | [squabble up](https://www.last.fm/music/Kendrick+Lamar/_/squabble+up) | Kendrick Lamar |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
 
 </td>
 </tr>
