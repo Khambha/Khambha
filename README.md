@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/72be72f5d593a9b02f30700fd5079005.jpg" width="40" height="40"/> | [What Makes You Beautiful](https://www.last.fm/music/One+Direction/_/What+Makes+You+Beautiful) | One Direction |
-| 🎵 | [Nerathai Neril Ketkiren](https://www.last.fm/music/M.S+Krsna/_/Nerathai+Neril+Ketkiren) | M.S Krsna |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9cb83c5e9ed88d85de5a8ed3471cf4d9.jpg" width="40" height="40"/> | [Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch) | Bella Poarch |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" width="40" height="40"/> | [squabble up](https://www.last.fm/music/Kendrick+Lamar/_/squabble+up) | Kendrick Lamar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Earth Song](https://www.last.fm/music/Michael+Jackson/_/Earth+Song) | Michael Jackson |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/753bd13104b476d1101c52318f47f82d.jpg" width="40" height="40"/> | [Scene Kya Hai](https://www.last.fm/music/Nucleya/_/Scene+Kya+Hai) | Nucleya |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2bdba1b2c65d7a3882aec5a167143f50.jpg" width="40" height="40"/> | [Bad Karma (Radio Edit)](https://www.last.fm/music/Axel+Thesleff/_/Bad+Karma+(Radio+Edit)) | Axel Thesleff |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0558a3224b3c13d3b96a7d0ac26eb7c9.jpg" width="40" height="40"/> | [Stayin' Alive](https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive) | Bee Gees |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8d9828b5b96b5b6d8afbc90c571a07d6.png" width="40" height="40"/> | [Alone, Pt. II](https://www.last.fm/music/Alan+Walker/_/Alone,+Pt.+II) | Alan Walker |
 
 </td>
 </tr>
