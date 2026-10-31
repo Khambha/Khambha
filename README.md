@@ -150,9 +150,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 11 |
-| 2 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
-| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 10 |
+| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 12 |
+| 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 12 |
+| 3 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 11 |
 | 4 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 7 |
 | 5 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 7 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Earth Song](https://www.last.fm/music/Michael+Jackson/_/Earth+Song) | Michael Jackson |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/753bd13104b476d1101c52318f47f82d.jpg" width="40" height="40"/> | [Scene Kya Hai](https://www.last.fm/music/Nucleya/_/Scene+Kya+Hai) | Nucleya |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8f19112e14cef6722897ef109331ad69.jpg" width="40" height="40"/> | [Burn the House Down](https://www.last.fm/music/AJR/_/Burn+the+House+Down) | AJR |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2bdba1b2c65d7a3882aec5a167143f50.jpg" width="40" height="40"/> | [Bad Karma (Radio Edit)](https://www.last.fm/music/Axel+Thesleff/_/Bad+Karma+(Radio+Edit)) | Axel Thesleff |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/aa802be01698be5f5834214a57d927bd.jpg" width="40" height="40"/> | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0558a3224b3c13d3b96a7d0ac26eb7c9.jpg" width="40" height="40"/> | [Stayin' Alive](https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive) | Bee Gees |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8d9828b5b96b5b6d8afbc90c571a07d6.png" width="40" height="40"/> | [Alone, Pt. II](https://www.last.fm/music/Alan+Walker/_/Alone,+Pt.+II) | Alan Walker |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/26d6794db20cd55f46d2c75691242456.jpg" width="40" height="40"/> | [Champions (WC 26)](https://www.last.fm/music/IShowSpeed/_/Champions+(WC+26)) | IShowSpeed |
 
 </td>
 </tr>
