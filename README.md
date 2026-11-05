@@ -154,7 +154,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | 2 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 11 |
 | 3 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 7 |
 | 4 | [The Scenic Route (with Rick Ross & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/The+Scenic+Route+(with+Rick+Ross+&+Anderson+.Paak)) | Dr. Dre | 7 |
-| 5 | [ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)](https://www.last.fm/music/Dr.+Dre/_/ETA+(with+Snoop+Dogg,+Busta+Rhymes+&+Anderson+.Paak)) | Dr. Dre | 6 |
+| 5 | [Black Privilege](https://www.last.fm/music/Dr.+Dre/_/Black+Privilege) | Dr. Dre | 5 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/38479c05afc2a5c6e2e621b6c3ac7de5.png" width="40" height="40"/> | [Creep](https://www.last.fm/music/Radiohead/_/Creep) | Radiohead |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/feaf64f2e84e9c4d03dee410fa433307.png" width="40" height="40"/> | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili |
+| 🎵 | [Thooki - From "Vaazha 2"](https://www.last.fm/music/Arcado/_/Thooki+-+From+%22Vaazha+2%22) | Arcado |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/dffca43e2a940cdef7c2f8d0eeb07f76.gif" width="40" height="40"/> | [夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B) | YOASOBI |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/b92de63aafd77041deed3d837fbd8155.jpg" width="40" height="40"/> | [Vienna](https://www.last.fm/music/Billy+Joel/_/Vienna) | Billy Joel |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/124d91edf558a82a897dbd4c798fdaca.jpg" width="40" height="40"/> | [Earth Song](https://www.last.fm/music/Michael+Jackson/_/Earth+Song) | Michael Jackson |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8f19112e14cef6722897ef109331ad69.jpg" width="40" height="40"/> | [Burn the House Down](https://www.last.fm/music/AJR/_/Burn+the+House+Down) | AJR |
 
 </td>
 </tr>
