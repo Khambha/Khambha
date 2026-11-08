@@ -150,8 +150,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 12 |
-| 2 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 7 |
+| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 9 |
+| 2 | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman | 6 |
 | 3 | [Gospel (with Eminem)](https://www.last.fm/music/Dr.+Dre/_/Gospel+(with+Eminem)) | Dr. Dre | 5 |
 | 4 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 5 | [Que sera sera](https://www.last.fm/music/Doris+Day/_/Que+sera+sera) | Doris Day | 3 |
