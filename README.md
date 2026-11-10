@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/59b48a9c9e21d2ff50812af0a289550a.jpg" width="40" height="40"/> | [Chellame Magale - Mohan Kannan Version](https://www.last.fm/music/Sai+Abhyankkar/_/Chellame+Magale+-+Mohan+Kannan+Version) | Sai Abhyankkar |
+| 🎵 | [Paazha - From "Vaazha 2"](https://www.last.fm/music/Muthu/_/Paazha+-+From+%22Vaazha+2%22) | Muthu |
+| 🎵 | [Maare Maare](https://www.last.fm/music/Electronic+kili/_/Maare+Maare) | Electronic kili |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/feaf64f2e84e9c4d03dee410fa433307.png" width="40" height="40"/> | [Po Chatha](https://www.last.fm/music/Electronic+kili/_/Po+Chatha) | Electronic kili |
 | 🎵 | [Sunnath Kalyanam - From "Vaazha 2"](https://www.last.fm/music/Muthu/_/Sunnath+Kalyanam+-+From+%22Vaazha+2%22) | Muthu |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/feaf64f2e84e9c4d03dee410fa433307.png" width="40" height="40"/> | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/38479c05afc2a5c6e2e621b6c3ac7de5.png" width="40" height="40"/> | [Creep](https://www.last.fm/music/Radiohead/_/Creep) | Radiohead |
-| 🎵 | [Thooki - From "Vaazha 2"](https://www.last.fm/music/Arcado/_/Thooki+-+From+%22Vaazha+2%22) | Arcado |
 
 </td>
 </tr>
