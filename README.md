@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0ad075f4634694f72e6af265d3b270dc.jpg" width="40" height="40"/> | [Wild](https://www.last.fm/music/LVLY/_/Wild) | LVLY |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4391d2e5b8a9fbd265055d3f1b98ad7a.jpg" width="40" height="40"/> | [Imagination](https://www.last.fm/music/Whales/_/Imagination) | Whales |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0df88df2ca9e67709d7a73a3553db7a1.jpg" width="40" height="40"/> | [In Da Club](https://www.last.fm/music/50+Cent/_/In+Da+Club) | 50 Cent |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8fb6925610c3f0f523f1c5227382649d.jpg" width="40" height="40"/> | [Trouble](https://www.last.fm/music/The+Chosen/_/Trouble) | The Chosen |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/85a75dc24737ae44efb2d3c64f20a68a.jpg" width="40" height="40"/> | [Ghost](https://www.last.fm/music/Confetti/_/Ghost) | Confetti |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fa42f57416b79a4a1afc11354bc7d377.jpg" width="40" height="40"/> | [Don't Stop Believin' (2022 Remaster)](https://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+(2022+Remaster)) | Journey |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
-| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
 
 </td>
 </tr>
