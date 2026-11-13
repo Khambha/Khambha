@@ -150,11 +150,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
+| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
 | 2 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
-| 3 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 4 |
-| 4 | [Que sera sera](https://www.last.fm/music/Doris+Day/_/Que+sera+sera) | Doris Day | 3 |
-| 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
+| 3 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 5 |
+| 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
+| 5 | [Loser](https://www.last.fm/music/Tame+Impala/_/Loser) | Tame Impala | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8fb6925610c3f0f523f1c5227382649d.jpg" width="40" height="40"/> | [Trouble](https://www.last.fm/music/The+Chosen/_/Trouble) | The Chosen |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/85a75dc24737ae44efb2d3c64f20a68a.jpg" width="40" height="40"/> | [Ghost](https://www.last.fm/music/Confetti/_/Ghost) | Confetti |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fa42f57416b79a4a1afc11354bc7d377.jpg" width="40" height="40"/> | [Don't Stop Believin' (2022 Remaster)](https://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+(2022+Remaster)) | Journey |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9f6051d40040500022877137c5d4d080.jpg" width="40" height="40"/> | [GOAT Song](https://www.last.fm/music/Jakes+Bejoy/_/GOAT+Song) | Jakes Bejoy |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d87e6227a57518a2d62d23180c87cdf6.jpg" width="40" height="40"/> | [Magale - From "Baththa"](https://www.last.fm/music/Sai+Abhyankkar/_/Magale+-+From+%22Baththa%22) | Sai Abhyankkar |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/59b48a9c9e21d2ff50812af0a289550a.jpg" width="40" height="40"/> | [Chellame Magale - Mohan Kannan Version](https://www.last.fm/music/Sai+Abhyankkar/_/Chellame+Magale+-+Mohan+Kannan+Version) | Sai Abhyankkar |
-| 🎵 | [Paazha - From "Vaazha 2"](https://www.last.fm/music/Muthu/_/Paazha+-+From+%22Vaazha+2%22) | Muthu |
+| 🎵 | [Perfect OK](https://www.last.fm/music/Ashwin+Bhaskar/_/Perfect+OK) | Ashwin Bhaskar |
 
 </td>
 </tr>
