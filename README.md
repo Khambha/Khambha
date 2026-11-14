@@ -150,8 +150,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
-| 2 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 6 |
+| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 7 |
+| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
 | 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 | 5 | [Loser](https://www.last.fm/music/Tame+Impala/_/Loser) | Tame Impala | 3 |
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| 🎵 | [Khathyayani](https://www.last.fm/music/Sinjith+Yerramilli/_/Khathyayani) 🟢 *now playing* | Sinjith Yerramilli |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2ff8d65302db34c43947fa364e6096d6.gif" width="40" height="40"/> | [Space Cadet (feat. Gunna)](https://www.last.fm/music/Metro+Boomin/_/Space+Cadet+(feat.+Gunna)) | Metro Boomin |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/f61aa66a569231c8145fbb5bd3d39dfb.jpg" width="40" height="40"/> | [Diamond Mind (with Nipsey Hussle & Ty Dolla $ign)](https://www.last.fm/music/Dr.+Dre/_/Diamond+Mind+(with+Nipsey+Hussle+&+Ty+Dolla+$ign)) | Dr. Dre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1d6ea48e5d6b4539c58892cc30ed75c8.jpg" width="40" height="40"/> | [Freaks](https://www.last.fm/music/Timmy+Trumpet/_/Freaks) | Timmy Trumpet |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/916449c1c6f4483c83854a72482d1a50.jpg" width="40" height="40"/> | [Ain't Got Rhythm (Vocal)](https://www.last.fm/music/Phineas/_/Ain%27t+Got+Rhythm+(Vocal)) | Phineas |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/300d459aa0590c86fc6a017a08b89cb4.jpg" width="40" height="40"/> | [HUSN](https://www.last.fm/music/Anuv+Jain/_/HUSN) | Anuv Jain |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4391d2e5b8a9fbd265055d3f1b98ad7a.jpg" width="40" height="40"/> | [Imagination](https://www.last.fm/music/Whales/_/Imagination) | Whales |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Circles](https://www.last.fm/music/Post+Malone/_/Circles) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a2311cad0e293d081d018a6815d71e50.jpg" width="40" height="40"/> | [Change on the Rise](https://www.last.fm/music/Avi+Kaplan/_/Change+on+the+Rise) | Avi Kaplan |
 
 </td>
 </tr>
