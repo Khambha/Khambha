@@ -150,7 +150,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 7 |
+| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 9 |
 | 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
 | 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70c766589a3f99f00e3e3bd09daff550.png" width="40" height="40"/> | [Mia & Sebastian’s Theme (Late for the Date)](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%E2%80%99s+Theme+(Late+for+the+Date)) | Justin Hurwitz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8f6de0210d232cf4ebab0648737781d0.jpg" width="40" height="40"/> | [Mia & Sebastian’s Theme](https://www.last.fm/music/Justin+Hurwitz/_/Mia+&+Sebastian%E2%80%99s+Theme) | Justin Hurwitz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/300d459aa0590c86fc6a017a08b89cb4.jpg" width="40" height="40"/> | [HUSN](https://www.last.fm/music/Anuv+Jain/_/HUSN) | Anuv Jain |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4391d2e5b8a9fbd265055d3f1b98ad7a.jpg" width="40" height="40"/> | [Imagination](https://www.last.fm/music/Whales/_/Imagination) | Whales |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Circles](https://www.last.fm/music/Post+Malone/_/Circles) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a023f6a13b748fb0d14484e96006458c.jpg" width="40" height="40"/> | [Let Me Love You](https://www.last.fm/music/DJ+Snake/_/Let+Me+Love+You) | DJ Snake |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4111343296ca42eaabebbe35af02add7.jpg" width="40" height="40"/> | [Word Up - UK 08 Version](https://www.last.fm/music/The+BossHoss/_/Word+Up+-+UK+08+Version) | The BossHoss |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Aathi Iva Yarraa](https://www.last.fm/music/Sushin+Shyam/_/Aathi+Iva+Yarraa) | Sushin Shyam |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70c766589a3f99f00e3e3bd09daff550.png" width="40" height="40"/> | [It’s Over / Engagement Party](https://www.last.fm/music/Justin+Hurwitz/_/It%E2%80%99s+Over+%2F+Engagement+Party) | Justin Hurwitz |
 
 </td>
 </tr>
