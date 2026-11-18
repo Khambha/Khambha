@@ -150,7 +150,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 9 |
+| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
 | 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
 | 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a023f6a13b748fb0d14484e96006458c.jpg" width="40" height="40"/> | [Let Me Love You](https://www.last.fm/music/DJ+Snake/_/Let+Me+Love+You) | DJ Snake |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/4111343296ca42eaabebbe35af02add7.jpg" width="40" height="40"/> | [Word Up - UK 08 Version](https://www.last.fm/music/The+BossHoss/_/Word+Up+-+UK+08+Version) | The BossHoss |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Aathi Iva Yarraa](https://www.last.fm/music/Sushin+Shyam/_/Aathi+Iva+Yarraa) | Sushin Shyam |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/70c766589a3f99f00e3e3bd09daff550.png" width="40" height="40"/> | [It’s Over / Engagement Party](https://www.last.fm/music/Justin+Hurwitz/_/It%E2%80%99s+Over+%2F+Engagement+Party) | Justin Hurwitz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d022bb18a56b3ff7b36ce1c6a9addae7.jpg" width="40" height="40"/> | [Blood In Your Eyes (from GTAVI: The Album)](https://www.last.fm/music/Tove+Lo/_/Blood+In+Your+Eyes+(from+GTAVI:+The+Album)) | Tove Lo |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ab6c2c1a4d58b754e0124b221fedb716.jpg" width="40" height="40"/> | [Drei Uhr Nachts](https://www.last.fm/music/Mark+Forster/_/Drei+Uhr+Nachts) | Mark Forster |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/023476b33f887963290f283e571c0b9f.png" width="40" height="40"/> | [Let It Be - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Let+It+Be+-+Remastered+2009) | The Beatles |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/38600eaa2aea98c87559322423db898d.png" width="40" height="40"/> | [Makane X Koodappirannor](https://www.last.fm/music/Parvatish+Pradeep/_/Makane+X+Koodappirannor) | Parvatish Pradeep |
 
 </td>
 </tr>
