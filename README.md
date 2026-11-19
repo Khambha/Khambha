@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.jpg" width="40" height="40"/> | [Mirrors](https://www.last.fm/music/Justin+Timberlake/_/Mirrors) | Justin Timberlake |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40"/> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d022bb18a56b3ff7b36ce1c6a9addae7.jpg" width="40" height="40"/> | [Blood In Your Eyes (from GTAVI: The Album)](https://www.last.fm/music/Tove+Lo/_/Blood+In+Your+Eyes+(from+GTAVI:+The+Album)) | Tove Lo |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ab6c2c1a4d58b754e0124b221fedb716.jpg" width="40" height="40"/> | [Drei Uhr Nachts](https://www.last.fm/music/Mark+Forster/_/Drei+Uhr+Nachts) | Mark Forster |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/023476b33f887963290f283e571c0b9f.png" width="40" height="40"/> | [Let It Be - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Let+It+Be+-+Remastered+2009) | The Beatles |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/38600eaa2aea98c87559322423db898d.png" width="40" height="40"/> | [Makane X Koodappirannor](https://www.last.fm/music/Parvatish+Pradeep/_/Makane+X+Koodappirannor) | Parvatish Pradeep |
 
 </td>
 </tr>
