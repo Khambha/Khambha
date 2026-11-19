@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0436fec7727aec31f7188c66b9146bc9.jpg" width="40" height="40"/> | [Above All](https://www.last.fm/music/Christopher+West/_/Above+All) | Christopher West |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/c26561c52f51aec10fee436811b9a22f.png" width="40" height="40"/> | [Bruises](https://www.last.fm/music/Lewis+Capaldi/_/Bruises) | Lewis Capaldi |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.jpg" width="40" height="40"/> | [Mirrors](https://www.last.fm/music/Justin+Timberlake/_/Mirrors) | Justin Timberlake |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40"/> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d022bb18a56b3ff7b36ce1c6a9addae7.jpg" width="40" height="40"/> | [Blood In Your Eyes (from GTAVI: The Album)](https://www.last.fm/music/Tove+Lo/_/Blood+In+Your+Eyes+(from+GTAVI:+The+Album)) | Tove Lo |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
 
 </td>
 </tr>
