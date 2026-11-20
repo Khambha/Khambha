@@ -154,7 +154,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
 | 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
-| 5 | [Loser](https://www.last.fm/music/Tame+Impala/_/Loser) | Tame Impala | 3 |
+| 5 | [Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself) | Eminem | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| 🎵 | [It Is Well with My Soul](https://www.last.fm/music/Bryn+Williams/_/It+Is+Well+with+My+Soul) | Bryn Williams |
-| 🎵 | [Hallelujah](https://www.last.fm/music/Stream+Keys/_/Hallelujah) | Stream Keys |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0436fec7727aec31f7188c66b9146bc9.jpg" width="40" height="40"/> | [Above All](https://www.last.fm/music/Christopher+West/_/Above+All) | Christopher West |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/c26561c52f51aec10fee436811b9a22f.png" width="40" height="40"/> | [Bruises](https://www.last.fm/music/Lewis+Capaldi/_/Bruises) | Lewis Capaldi |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2d4c04914fe4eac2ebf5363c7dad0d0c.jpg" width="40" height="40"/> | [MONTERO (Call Me by Your Name)](https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)) | Lil Nas X |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40"/> | [DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF) | Bad Bunny |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
 
 </td>
 </tr>
