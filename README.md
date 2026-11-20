@@ -151,7 +151,7 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
-| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 6 |
+| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
 | 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 | 5 | [Loser](https://www.last.fm/music/Tame+Impala/_/Loser) | Tame Impala | 3 |
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| 🎵 | [It Is Well with My Soul](https://www.last.fm/music/Bryn+Williams/_/It+Is+Well+with+My+Soul) | Bryn Williams |
+| 🎵 | [Hallelujah](https://www.last.fm/music/Stream+Keys/_/Hallelujah) | Stream Keys |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0436fec7727aec31f7188c66b9146bc9.jpg" width="40" height="40"/> | [Above All](https://www.last.fm/music/Christopher+West/_/Above+All) | Christopher West |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/c26561c52f51aec10fee436811b9a22f.png" width="40" height="40"/> | [Bruises](https://www.last.fm/music/Lewis+Capaldi/_/Bruises) | Lewis Capaldi |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/571bbcf018af8f410c499c048c46ccc0.jpg" width="40" height="40"/> | [Zombie - 2025 Remastered](https://www.last.fm/music/The+Cranberries/_/Zombie+-+2025+Remastered) | The Cranberries |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.jpg" width="40" height="40"/> | [Mirrors](https://www.last.fm/music/Justin+Timberlake/_/Mirrors) | Justin Timberlake |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40"/> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
 
 </td>
 </tr>
