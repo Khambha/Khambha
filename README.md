@@ -151,8 +151,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
-| 2 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 5 |
-| 3 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
+| 2 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
+| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
 | 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 | 5 | [Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself) | Eminem | 3 |
 
