@@ -152,9 +152,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 |:-:|:--|:--|:-:|
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
 | 2 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
-| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
-| 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
-| 5 | [Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself) | Eminem | 3 |
+| 3 | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch | 5 |
+| 4 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
+| 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/2d4c04914fe4eac2ebf5363c7dad0d0c.jpg" width="40" height="40"/> | [MONTERO (Call Me by Your Name)](https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)) | Lil Nas X |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7068dcf72d43e17b39fa4b5389f11eda.jpg" width="40" height="40"/> | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40"/> | [DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF) | Bad Bunny |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/601f4938da2d4ea8bb2e31d3a05d43a6.jpg" width="40" height="40"/> | [Tom's Diner](https://www.last.fm/music/AnnenMayKantereit/_/Tom%27s+Diner) | AnnenMayKantereit |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/23d1d4a6163336cd61715a42ea08d923.jpg" width="40" height="40"/> | [Lean On](https://www.last.fm/music/Major+Lazer/_/Lean+On) | Major Lazer |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8e365b08d3b501051820f21aedb18176.jpg" width="40" height="40"/> | [Jalebi Baby](https://www.last.fm/music/Tesher/_/Jalebi+Baby) | Tesher |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fd049ac4ab67fe3bc35da47635abf091.jpg" width="40" height="40"/> | [El Merengue](https://www.last.fm/music/Marshmello/_/El+Merengue) | Marshmello |
 
 </td>
 </tr>
