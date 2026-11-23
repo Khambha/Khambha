@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/235774b811682caff4952e49ce0e5947.jpg" width="40" height="40"/> | [Aavegi](https://www.last.fm/music/Ritviz/_/Aavegi) | Ritviz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png" width="40" height="40"/> | [The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist) | Coldplay |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/601f4938da2d4ea8bb2e31d3a05d43a6.jpg" width="40" height="40"/> | [Tom's Diner](https://www.last.fm/music/AnnenMayKantereit/_/Tom%27s+Diner) | AnnenMayKantereit |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/23d1d4a6163336cd61715a42ea08d923.jpg" width="40" height="40"/> | [Lean On](https://www.last.fm/music/Major+Lazer/_/Lean+On) | Major Lazer |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/8e365b08d3b501051820f21aedb18176.jpg" width="40" height="40"/> | [Jalebi Baby](https://www.last.fm/music/Tesher/_/Jalebi+Baby) | Tesher |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fd049ac4ab67fe3bc35da47635abf091.jpg" width="40" height="40"/> | [El Merengue](https://www.last.fm/music/Marshmello/_/El+Merengue) | Marshmello |
 
 </td>
 </tr>
