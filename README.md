@@ -153,8 +153,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
 | 2 | [Raahi](https://www.last.fm/music/Ritviz/_/Raahi) | Ritviz | 5 |
 | 3 | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch | 5 |
-| 4 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
-| 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
+| 4 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 4 |
+| 5 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.jpg" width="40" height="40"/> | [Mirrors](https://www.last.fm/music/Justin+Timberlake/_/Mirrors) | Justin Timberlake |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40"/> | [DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF) | Bad Bunny |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/235774b811682caff4952e49ce0e5947.jpg" width="40" height="40"/> | [Aavegi](https://www.last.fm/music/Ritviz/_/Aavegi) | Ritviz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png" width="40" height="40"/> | [The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist) | Coldplay |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/9723831947d651249148deecdfb139a8.jpg" width="40" height="40"/> | [Chikiri Chikiri (From "Peddi") [TELUGU]](https://www.last.fm/music/A.R.+Rahman/_/Chikiri+Chikiri+(From+%22Peddi%22)+%5BTELUGU%5D) | A.R. Rahman |
 
 </td>
 </tr>
