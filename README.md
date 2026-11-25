@@ -151,8 +151,8 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 10 |
-| 2 | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch | 5 |
-| 3 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 4 |
+| 2 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 4 |
+| 3 | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch | 4 |
 | 4 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
 | 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1de1b815025e2ceadfad8736d89047c7.jpg" width="40" height="40"/> | [Mirrors](https://www.last.fm/music/Justin+Timberlake/_/Mirrors) | Justin Timberlake |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40"/> | [DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF) | Bad Bunny |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fea6baad2831758993abfc14e067e342.jpg" width="40" height="40"/> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg" width="40" height="40"/> | [Take What You Want (feat. Ozzy Osbourne & Travis Scott)](https://www.last.fm/music/Post+Malone/_/Take+What+You+Want+(feat.+Ozzy+Osbourne+&+Travis+Scott)) | Post Malone |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/235774b811682caff4952e49ce0e5947.jpg" width="40" height="40"/> | [Aavegi](https://www.last.fm/music/Ritviz/_/Aavegi) | Ritviz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/5e03d7c6d69c19819b07cef436e73413.jpg" width="40" height="40"/> | [Talking to Myself](https://www.last.fm/music/Linkin+Park/_/Talking+to+Myself) | Linkin Park |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/d897b8b9afe75c015ae753ff914f9021.jpg" width="40" height="40"/> | [I Like You (A Happier Song) (with Doja Cat)](https://www.last.fm/music/Post+Malone/_/I+Like+You+(A+Happier+Song)+(with+Doja+Cat)) | Post Malone |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/ee08ca12eda53a362f90e8a0deb94f5c.jpg" width="40" height="40"/> | [Verbatim - Slowed Down](https://www.last.fm/music/Mother+Mother/_/Verbatim+-+Slowed+Down) | Mother Mother |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/86b35c4eb3c479da49c915d8771bbd1a.png" width="40" height="40"/> | [Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright) | Kendrick Lamar |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/1e671b1866ba098ad1120c8901748a55.jpg" width="40" height="40"/> | [Team Side Feat. RCB](https://www.last.fm/music/Alan+Walker/_/Team+Side+Feat.+RCB) | Alan Walker |
 
 </td>
 </tr>
