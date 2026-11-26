@@ -152,9 +152,9 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 |:-:|:--|:--|:-:|
 | 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 13 |
 | 2 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 4 |
-| 3 | [SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!) | ThxSoMch | 4 |
-| 4 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
-| 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
+| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
+| 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
+| 5 | [Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself) | Eminem | 3 |
 
 </td>
 <td valign="top" width="50%">
