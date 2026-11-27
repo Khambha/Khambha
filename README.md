@@ -150,11 +150,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | # | Track | Artist | Plays |
 |:-:|:--|:--|:-:|
-| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 13 |
-| 2 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 4 |
-| 3 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
-| 4 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
-| 5 | [Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself) | Eminem | 3 |
+| 1 | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam | 14 |
+| 2 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice | 5 |
+| 3 | [El Merengue](https://www.last.fm/music/Marshmello/_/El+Merengue) | Marshmello | 4 |
+| 4 | [One Sun One Moon (From "Jailer 2")](https://www.last.fm/music/Anirudh+Ravichander/_/One+Sun+One+Moon+(From+%22Jailer+2%22)) | Anirudh Ravichander | 3 |
+| 5 | [Nilavoonjaale](https://www.last.fm/music/Electronic+kili/_/Nilavoonjaale) | Electronic kili | 3 |
 
 </td>
 <td valign="top" width="50%">
@@ -163,11 +163,11 @@ I'm an **AI/ML Engineer** who loves taking an idea from raw data all the way to 
 
 | | Track | Artist |
 |:-:|:--|:--|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/0c29e0f1791b94bc532aa12cd634308e.jpg" width="40" height="40"/> | [Vossi Bop](https://www.last.fm/music/Stormzy/_/Vossi+Bop) | Stormzy |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/e88018f4ac9e6bbe17d86cb084108900.jpg" width="40" height="40"/> | [Yes I'm A Mess](https://www.last.fm/music/AJR/_/Yes+I%27m+A+Mess) | AJR |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.jpg" width="40" height="40"/> | [Something Just Like This](https://www.last.fm/music/The+Chainsmokers/_/Something+Just+Like+This) | The Chainsmokers |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/10a0300d29934dd199cfc02d7c847dcb.jpg" width="40" height="40"/> | [Nadaan Parinde](https://www.last.fm/music/A.R.+Rahman/_/Nadaan+Parinde) | A.R. Rahman |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/fc434646d7a42cf2a1f385d29e52392b.png" width="40" height="40"/> | [Farebi](https://www.last.fm/music/Chaar+Diwaari/_/Farebi) | Chaar Diwaari |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/010376e46fe24c20beb4e0543a13ca0b.jpg" width="40" height="40"/> | [Escape (The Pina Colada Song)](https://www.last.fm/music/Rupert+Holmes/_/Escape+(The+Pina+Colada+Song)) | Rupert Holmes |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/50c4999485c9e08ac2288890f972b900.jpg" width="40" height="40"/> | [Killin' 'em](https://www.last.fm/music/Sushin+Shyam/_/Killin%27+%27em) | Sushin Shyam |
+| 🎵 | [Pretty Little Devil - Shaya Zamora Slowed Down Version](https://www.last.fm/music/slowed+down+audioss/_/Pretty+Little+Devil+-+Shaya+Zamora+Slowed+Down+Version) | slowed down audioss |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/601f4938da2d4ea8bb2e31d3a05d43a6.jpg" width="40" height="40"/> | [Tom's Diner](https://www.last.fm/music/AnnenMayKantereit/_/Tom%27s+Diner) | AnnenMayKantereit |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/34s/23d1d4a6163336cd61715a42ea08d923.jpg" width="40" height="40"/> | [Lean On](https://www.last.fm/music/Major+Lazer/_/Lean+On) | Major Lazer |
 
 </td>
 </tr>
